@@ -1,6 +1,6 @@
 module.exports = {
   colors: {
-    primary: "#FFFFFF",
+    primary: "deeppink",
     accent: "#0099FF",
   },
   fontSize: {
