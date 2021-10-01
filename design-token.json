@@ -1,0 +1,8 @@
+{
+  "text_colours": {
+    "primary": "#111111",
+    "secondary": "#565656",
+    "loud": "#933bff",
+    "error": "#de0000"
+  }
+}
