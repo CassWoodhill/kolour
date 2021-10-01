@@ -2,7 +2,7 @@
   "name": "kolour",
   "version": "0.0.1",
   "description": "",
-  "main": "design-token.json",
+  "main": "design-token.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
