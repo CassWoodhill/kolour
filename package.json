@@ -2,10 +2,10 @@
   "name": "kolour",
   "version": "0.0.1",
   "description": "",
-  "main": "design-token.js",
+  "main": "tokens/theme.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "convert": "json-to-scss ./tokens/design-token.json"
+    "convert": "json-to-scss ./tokens/theme.js"
   },
   "repository": {
     "type": "git",
