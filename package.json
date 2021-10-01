@@ -1,10 +1,4 @@
 {
   "name": "@casswoodhill/kolour",
-  "version": "0.0.1",
-  "description": "design token experiement",
-  "main": "./index.js",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/casswoodhill/kolour.git"
-  }
+  "version": "0.0.1"
 }
