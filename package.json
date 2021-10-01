@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CassWoodhill/kolour/issues"
   },
-  "homepage": "https://github.com/CassWoodhill/kolour#readme"
+  "homepage": "https://github.com/CassWoodhill/kolour#readme",
+  "dependencies": {
+    "sass-ffi": "0.0.2"
+  }
 }

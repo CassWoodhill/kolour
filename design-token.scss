@@ -1,0 +1,3 @@
+$themes: ffi-require("./design-tokens");
+$theme-light: map-get($themes, "light");
+$theme-dark: map-get($themes, "dark");
